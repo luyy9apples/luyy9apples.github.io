@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yuyin Lu, a final-year Ph.D. candidate at the School of Computer Science, Sun Yat-sen University, advised by Prof. Rao.
+I'm Yuyin Lu, a final-year Ph.D. candidate at the School of Computer Science, Sun Yat-sen University, under the supervision of Prof. Rao.
 
-My early work focused on embedding learning for NLP applications. Currently, I specialize in **Knowledge Graph Reasoning** and **Neuro-Symbolic AI**, with deep interest in exploring AI's logical reasoning capabilities and cognitive mechanisms.
+My research focuses on Knowledge Graph Reasoning and Neuro-Symbolic AI, driven by a deep interest in advancing AI's logical reasoning capabilities and cognitive mechanisms.
 
-Explore my publications on the **[Publications]** page.
+Philosophically inspired by symbolic logic and semiotics, my work aims to reconceptualize these principles computationally to develop interpretable AI systems – a core objective guiding my research trajectory.
