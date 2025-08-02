@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025
+date: 2025-06-27
 venue: 'TKDE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11053687'
 citation: 'Y. Lu, H. Chen, Y. Rao, J. Yu, W. Hua and Q. Li, "An Efficient Fuzzy System for Complex Query Answering on Knowledge Graphs," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2025.3581959.'
