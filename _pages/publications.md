@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br>You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gDweKhkAAAAJ&hl=zh-CN).
 ---
+<br>You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gDweKhkAAAAJ&hl=zh-CN).
 
 ## Trustworthy AI
 
