@@ -90,6 +90,12 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  tai:
+    title: 'Trustworthy AI'
+  kg:
+    title: 'Knowledge Graph'
+  nlp:
+    title: 'Natural Language Processing'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
