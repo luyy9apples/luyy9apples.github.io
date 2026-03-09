@@ -10,7 +10,7 @@ author_profile: true
 
 ## Trustworthy AI
 
-**Double-Calibration: Towards Trustworthy LLMs via Calibrating Knowledge and Reasoning Confidence**
+[**Double-Calibration: Towards Trustworthy LLMs via Calibrating Knowledge and Reasoning Confidence**](https://arxiv.org/abs/2601.11956)
 <br>**Yuyin Lu**, Ziran Liang, Yanghui Rao, Wenqi Fan, Fu Lee, Wang, Qing Li
 <br>*arXiv preprint, 2026* 
 <br>`GraphRAG` `Trustworthy AI` `Large Language Models`
