@@ -9,56 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[📄 Download PDF (English)]({{ base_path }}/files/YuyinLu_CV_EN.pdf) &nbsp;|&nbsp; [📄 下载简历（中文）]({{ base_path }}/files/YuyinLu_CV_ZH.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Sun Yat-sen University** · 2021 – 2026 *(Expected)*
+<br>Ph.D. in Computer Science & Technology (Integrated M.S.–Ph.D. Program)
+<br>School of Computer Science and Engineering
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Sun Yat-sen University** · 2017 – 2021
+<br>B.Eng. in Software Engineering
+<br>School of Computer Science and Engineering
+
+---
+
+## Publications
+
+See full list on the [Publications](/publications/) page.
+
+---
+
+## Skills
+
+**Research Interests**
+Trustworthy AI · GraphRAG · Knowledge Graph
+
+**Programming & Tools**
+Python · PyTorch · Hugging Face Transformers
+
+**Languages**
+Chinese (Native) · English (CET-4 & CET-6) · Japanese (JLPT N1)
