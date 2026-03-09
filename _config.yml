@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yuyin Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate @ SYSU. Research: NLP · GraphRAG · Knowledge Graph."
+  bio              : "Ph.D. Candidate @ SYSU. Research: Trustworthy AI · LLM Reasoning · Knowledge Graph."
   location         : "Guangzhou, China"
-  employer         : ""
+  employer         : "Sun Yat-sen University"
   uri              : # URL
   email            : "luyy37@mail2.sysu.edu.cn" 
 
