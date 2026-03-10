@@ -23,7 +23,7 @@ repository               : "luyy9apples/luyy9apples.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/pic2.jpg"
+  avatar           : "pic2.jpg"
   name             : "Yuyin Lu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate @ SYSU. \n Trustworthy AI · LLM Reasoning · Knowledge Graph."
