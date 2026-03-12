@@ -8,7 +8,7 @@ author_profile: true
 ---
 <br>You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gDweKhkAAAAJ&hl=zh-CN).
 
-## 💎 Trustworthy AI
+## 💎 LLM Reasoning
 
 [**Double-Calibration: Towards Trustworthy LLMs via Calibrating Knowledge and Reasoning Confidence**](https://arxiv.org/abs/2601.11956)
 <br>**Yuyin Lu**, Ziran Liang, Yanghui Rao, Wenqi Fan, Fu Lee, Wang, Qing Li
@@ -64,7 +64,7 @@ author_profile: true
 
 ---
 
-## ❇️ Other Publications
+## ❇️ AI4Science
 
 [**A self-training interpretable cell type annotation framework using specific marker gene**](https://academic.oup.com/bioinformatics/article/40/10/btae569/7766196)
 <br>Hegang Chen, **Yuyin Lu**, Yanghui Rao
@@ -76,7 +76,3 @@ author_profile: true
 <br>*IEEE/ACM Transactions on Computational Biology and Bioinformatics* (**TCBB**), 2022·
 <br>`AI4Science` `Drug Combination Prediction`
 
-[**Lifelong learning of topics and domain-specific word embeddings**](https://aclanthology.org/2021.findings-acl.202/)
-<br>Xiaorui Qin, **Yuyin Lu**, Yufu Chen, Yanghui Rao
-<br>*Findings of the Association for Computational Linguistics: ACL-IJCNLP* (**Findings-ACL**), 2021·
-<br>`NLP` `Topic Modeling`
